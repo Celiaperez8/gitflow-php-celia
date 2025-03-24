@@ -1,3 +1,3 @@
 <?php
-include "alumnos/celia.php";
+include "alumnos/version_celia.php";
 ?>
